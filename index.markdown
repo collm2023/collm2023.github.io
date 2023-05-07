@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Challenges and Opportunities of Large Language Models in Real-World Machine Learning Applications (COLLM2023)
+title: COLLM2023
 nav_order: 1
 ---
 
-<em> Challenges and Opportunities of Large Language Models in Real-World Machine Learning Applications. 
-A Workshop Colocated with ECML-PKDD in Turin, Italy and Online in September, 2023 </em>
+## Challenges and Opportunities of Large Language Models in Real-World Machine Learning Applications.
+<em> A Workshop Colocated with ECML-PKDD in Turin, Italy and Online in September, 2023 </em>
 
 
 Large Language Models (LLMs) such as GPT-4 have the potential to revolutionize the
