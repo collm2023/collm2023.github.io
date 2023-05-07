@@ -35,14 +35,9 @@ Possible topics are (but not limited to):
 
 ## Formats
 
-We welcome original contributions describing applied research work in the LLM
-research field. Follow-up papers of more theoretical articles that describe specific
-challenges of productionizing LLMs in real-world applications are also welcome.
+We welcome original contributions describing applied research work in the LLM research field. Follow-up papers of more theoretical articles that describe specific challenges of productionizing LLMs in real-world applications are also welcome.
 
-We will accept the following paper formats:
-* **Long papers** of original, unpublished research. Long papers must not exceed 8 pages, excluding references and appendices. Final versions will be given an additional page of content. Submissions must be anonymized.
-* **Short papers** of original, unpublished research. Short papers must not exceed 4 pages, excluding references and appendices. Final versions will be given an additional page of content. Submissions must be anonymized.
-* **Non-archival extended abstracts** with either previously-published content or content related to in-progress, unfinished work. Extended abstracts must be limited to 2 pages or fewer, excluding references and appendices. Anonymization is not required.
+Contributions can be: full papers (up to 8 pages excluding references), or short papers (up to 4 pages excluding references). Papers must be written in English and formatted according to the Springer LNCS guidelines. Author instructions, style files, and the copyright form can be downloaded here, following the ECML-PKDD 2023 submission guidelines.
 
 Papers must be written in English and formatted  according to the [Springer LNCS guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). 
 Author instructions, style files, and the copyright form can be downloaded here, following the ECML-PKDD 2023 submission
