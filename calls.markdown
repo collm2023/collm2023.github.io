@@ -44,12 +44,14 @@ We will accept the following paper formats:
 * **Short papers** of original, unpublished research. Short papers must not exceed 4 pages, excluding references and appendices. Final versions will be given an additional page of content. Submissions must be anonymized.
 * **Non-archival extended abstracts** with either previously-published content or content related to in-progress, unfinished work. Extended abstracts must be limited to 2 pages or fewer, excluding references and appendices. Anonymization is not required.
 
-Papers must be written in English and formatted  according to the Springer LNCS guidelines [ADD LINK HERE]. 
+Papers must be written in English and formatted  according to the [Springer LNCS guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines). 
 Author instructions, style files, and the copyright form can be downloaded here, following the ECML-PKDD 2023 submission
 guidelines. The submissions will undergo a double-blind review process and be judged according
 to quality, relevance, scientific soundness and potential impact. Hence, authors should
 not disclose their names or affiliations and should do their best to avoid doing so
 indirectly in the text.
+
+Electronic submissions will be handled via CMT available at the following address https://cmt3.research.microsoft.com/TBDTBDTBD.
 
 ## Important Dates
 

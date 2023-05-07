@@ -5,7 +5,10 @@ Models in Real-World Machine Learning Applications (COLLM2023)
 nav_order: 1
 ---
 
-A Workshop Colocated with ECML-PKDD in Turin, Italy and Online in September, 2023
+# COLLM 2023
+<em> Challenges and Opportunities of Large Language Models in Real-World Machine Learning Applications. 
+A Workshop Colocated with ECML-PKDD in Turin, Italy and Online in September, 2023 </em>
+
 
 Large Language Models (LLMs) such as GPT-4 have the potential to revolutionize the
 way we interact with language-based applications in the real world. However, they also
@@ -25,9 +28,9 @@ Understanding.
 
 *Note: Submissions are to be done using the Microsoft CMT system (add link)*
 
-* **Jul 1st:** Paper submission deadline
-* **Aug 1st:** Acceptance notifications
-* **Aug 15th:** Camera ready deadline
+* **Jun 12th:** Paper submission deadline
+* **Jul 12th:** Author notification
+* **Jul 20th:** Camera-ready deadline
 * **Sep 18th:** COLLM 2023 Workshop
 
 ## Keynote Speaker
@@ -47,8 +50,10 @@ syntactic/semantic inference over text, documented by more than 300 scientific a
 has received four IBM Faculty Awards, one Google Faculty Award, and five best paper
 awards. He was the General Chair of EMNLP 2014, a PC co-Chair of CoNLL 2015, and has
 had a chair role in more than 70 conferences and workshops. He is currently an
-action/associate editor of ACM Computing Survey and JAIR, and General Chair of EACL
-2023. He has led more than 25 research projects, e.g., with MIT CSAIL.
+action/associate editor of ACM Computing Survey and JAIR, and General Chair of EACL 2023. 
+He has led more than 25 research projects, e.g., with MIT CSAIL.
+
+<!---
 
 ## Panel
 
@@ -63,21 +68,22 @@ action/associate editor of ACM Computing Survey and JAIR, and General Chair of E
 
 ![](images/tbd.png){: width="150"}
 *[TBD](http://blender.cs.illinois.edu/hengji.html), Spotify, USA*
+--->
 
 
 ## Workshop Organizers
 
 ![](images/tbd.jpeg){: width="150"}
-*[Enrico Palumbo](https://www.linkedin.com/in/jackgmfitzgerald/), Spotify, Italy*
+*[Enrico Palumbo](https://www.linkedin.com/in/enrico-palumbo-0272baa8/), Spotify, Italy*
 
 ![](images/tbd.jpeg){: width="150"}
-*[Daniele Amberti](https://kay-rottmann.de/), Amazon Alexa, Italy*
+*[Daniele Amberti](https://www.google.com/), Amazon Alexa, Italy*
 
 ![](images/tbd.jpeg){: width="150"}
-*[Davide Bernardi](http://www.cs.columbia.edu/~julia/), Amazon Alexa, Italy*
+*[Davide Bernardi](https://www.google.com/), Amazon Alexa, Italy*
 
 ![](images/tbd.jpeg){: width="150"}
-*[Hugues Bouchard](https://www.cs.uml.edu/~arum/), Spotify, Spain*
+*[Hugues Bouchard](https://www.google.com/), Spotify, Spain*
 
 ![](images/tbd.png){: width="150"}
-*[Alessandro Manzotti](https://www.cs.unc.edu/~mbansal/), Microsoft, Italy*
+*[Alessandro Manzotti](https://www.google.com/), Microsoft, Italy*
