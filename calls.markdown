@@ -57,8 +57,8 @@ Electronic submissions will be handled via CMT available at the following addres
 
 *Note: Submissions are to be done using the Microsoft CMT system (add link)*
 
-* **Jul 1st:** Paper submission deadline
-* **Aug 1st:** Acceptance notifications
-* **Aug 15th:** Camera ready deadline
+* **Jun 12th:** Paper submission deadline
+* **Jul 12th:** Author notification
+* **Jul 20th:** Camera-ready deadline
 * **Sep 18th:** COLLM 2023 Workshop
 
