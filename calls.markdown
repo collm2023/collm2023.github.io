@@ -46,7 +46,12 @@ to quality, relevance, scientific soundness and potential impact. Hence, authors
 not disclose their names or affiliations and should do their best to avoid doing so
 indirectly in the text.
 
-Electronic submissions will be handled via CMT available at the following address https://cmt3.research.microsoft.com/TBDTBDTBD.
+Electronic submissions will be handled via Microsoft CMT:
+
+1. login [here](https://cmt3.research.microsoft.com)
+2. click [submission link](https://cmt3.research.microsoft.com/ECMLPKDDworkshop2023/Submission/Index)
+3. click on "+ Create new submission…" button
+4. select "Challenges and Opportunities of Large Language Models in Real-World Machine Learning Applications"
 
 ## Important Dates
 
