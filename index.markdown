@@ -85,3 +85,30 @@ He has led more than 25 research projects, e.g., with MIT CSAIL.
 
 ![](images/tbd.png){: width="150"}
 *[Alessandro Manzotti](https://www.google.com/), Microsoft, Italy*
+
+
+## Program Committee
+
+* Anjali Shenoy, Research Science Manager, Amazon
+* Anne Schuth, ML Engineering Manager, Spotify
+* Anurag Dwarakanath, Research Science Manager, Amazon
+* Bei Chen, Research Science Manager, Amazon
+* Bianca Scarlini, Research Scientist, Amazon
+* Claudia Hauff, Staff Research Scientist, Spotify
+* Daniele Regoli, Data Scientist, Intesa Sanpaolo
+* Gabriel Benedict, PhD student, University of Amsterdam
+* Geoffrey Liu, Senior Speech Scientist, Microsoft
+* Gustavo Penha, Research Scientist, Spotify
+* Humberto Corona Pampin, Senior Product Manager, Spotify
+* Jacopo Chevallard, Science & Innovation Senior Lead, BLOOM
+* Jose Luis Redondo Garcia, Senior Research Scientist, Spotify
+* Kay Rottmann, Senior Applied Scientist-NLU, Amazon
+* Luca Rubini, Speech Scientist, Nuance communications
+* Luigi Di Caro, Associate Professor, University of Turin
+* Maria Minakova, Research Science Manager, Amazon
+* Melanie Bradford, Research Science Manager, Amazon
+* Piyush Behre, Applied Science Manager, Microsoft
+* Sharman Tan, Applied Scientist, Microsoft
+* Thilina Rajapakse, PhD student, University of Amsterdam
+* Thong Nguyen, PhD student, University of Amsterdam
+* Valerio Basile, Assistant Professor, University of Turin
