@@ -24,8 +24,6 @@ Understanding.
 
 ## Important Dates
 
-*Note: Submissions are to be done using the Microsoft CMT system (add link)*
-
 * **Jun 12th:** Paper submission deadline
 * **Jul 12th:** Author notification
 * **Jul 20th:** Camera-ready deadline
