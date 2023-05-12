@@ -46,6 +46,8 @@ to quality, relevance, scientific soundness and potential impact. Hence, authors
 not disclose their names or affiliations and should do their best to avoid doing so
 indirectly in the text.
 
+At least one author of each accepted paper must have a <b>full registration</b> and <b>attend in-person</b> to present the paper.
+
 Electronic submissions will be handled via Microsoft CMT:
 
 1. login [here](https://cmt3.research.microsoft.com)

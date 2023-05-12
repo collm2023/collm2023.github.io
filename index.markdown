@@ -73,16 +73,16 @@ He has led more than 25 research projects, e.g., with MIT CSAIL.
 *[Enrico Palumbo](https://www.linkedin.com/in/enrico-palumbo-0272baa8/), Spotify, Italy*
 
 ![](images/tbd.jpeg){: width="150"}
-*[Daniele Amberti](https://www.google.com/), Amazon Alexa, Italy*
+*[Daniele Amberti](https://www.linkedin.com/in/damberti/), Amazon Alexa, Italy*
 
 ![](images/tbd.jpeg){: width="150"}
-*[Davide Bernardi](https://www.google.com/), Amazon Alexa, Italy*
+*[Davide Bernardi](https://www.linkedin.com/in/bernardid/), Amazon Alexa, Italy*
 
 ![](images/tbd.jpeg){: width="150"}
-*[Hugues Bouchard](https://www.google.com/), Spotify, Spain*
+*[Hugues Bouchard](https://www.linkedin.com/in/hugues-bouchard-6939822/), Spotify, Spain*
 
 ![](images/tbd.png){: width="150"}
-*[Alessandro Manzotti](https://www.google.com/), Microsoft, Italy*
+*[Alessandro Manzotti](https://www.linkedin.com/in/amanzotti/), Microsoft, Italy*
 
 
 ## Program Committee
