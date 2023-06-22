@@ -24,7 +24,7 @@ Understanding.
 
 ## Important Dates
 
-* **~~Jun 12th~~ Jun 19th:** Paper submission deadline
+* **~~Jun 12th~~ ~~Jun 19th~~ Jun 29th:** Paper submission deadline
 * **Jul 12th:** Author notification
 * **Jul 20th:** Camera-ready deadline
 * **Sep 18th:** COLLM 2023 Workshop
