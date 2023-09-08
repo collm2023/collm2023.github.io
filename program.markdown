@@ -10,7 +10,7 @@ The room is "Aula 2i" in Politecnico di Torino.
 All times are given in Central European Time (CET).
 The program will feature keynote speakers, paper presentations, and a panel session.
 
-##Schedule
+## Schedule
 
 ### Opening
 
