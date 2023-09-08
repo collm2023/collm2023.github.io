@@ -26,7 +26,7 @@ Understanding.
 
 * **~~Jun 12th~~ ~~Jun 19th~~ Jun 29th:** Paper submission deadline
 * **Jul 12th:** Author notification
-* **TBA:** Camera-ready deadline
+* **Oct 1st:** Camera-ready deadline
 * **Sep 18th:** COLLM 2023 Workshop
 
 ## Keynote Speaker
