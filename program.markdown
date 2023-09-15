@@ -33,8 +33,8 @@ The program will feature keynote speakers, paper presentations, and a panel sess
 
 Alex Jaimes, Chief Scientist, Dataminr
 
-Paul Bennett, Director of Research (LLMs), Spotify (online)
-
 Emanuele Rodola’, Full Professor, University of Rome
 
-Oscar Koller, Applied Scientist, Microsoft (online)
+Paul Bennett, Director of Research (LLMs), Spotify (online)
+
+Kay Rottman, Senior Applied Scientist, Amazon Alexa (online)
