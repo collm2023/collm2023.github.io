@@ -33,6 +33,7 @@ Understanding.
 
 ![](images/tbd.png){: width="150"}
 *[Alessandro Moschitti](https://scholar.google.com/citations?user=vYUDlsEAAAAJ&hl=en), Amazon Alexa, USA*
+
 Alessandro Moschitti is a Principal Research Scientist of Amazon Alexa AI, where he
 has been leading the science of Question Answering science since 2018. He obtained his
 Ph.D. in CS from the University of Rome in 2003, and then did his postdoc at The University
@@ -49,31 +50,28 @@ had a chair role in more than 70 conferences and workshops. He is currently an
 action/associate editor of ACM Computing Survey and JAIR, and General Chair of EACL 2023. 
 He has led more than 25 research projects, e.g., with MIT CSAIL.
 
-<!---
 
-## Panel
 
-![](images/tbd.png){: width="150"}
-*[Ann Clifton](http://blender.cs.illinois.edu/hengji.html), Spotify, USA*
+## Panel members
 
 ![](images/tbd.png){: width="150"}
-*[Wael Hamza](http://blender.cs.illinois.edu/hengji.html), Amazon Alexa, USA*
+*[Alex Jaimes](https://scholar.google.com/citations?user=2_sT4fcAAAAJ&hl=en), Dataminr, Chief Scientist*
 
 ![](images/tbd.png){: width="150"}
-*[TBD](http://blender.cs.illinois.edu/hengji.html), Spotify, USA*
+*[Emanuele Rodolà](https://scholar.google.com/citations?user=-EH4wBYAAAAJ&hl=en), Full Professor, Sapienza University of Rome*
 
 ![](images/tbd.png){: width="150"}
-*[TBD](http://blender.cs.illinois.edu/hengji.html), Spotify, USA*
---->
+*[Kay Rottmann](https://scholar.google.com/citations?user=YLUnbqEAAAAJ&hl=en&oi=ao), Senior Applied Scientist, Amazon Alexa*
+
+![](images/tbd.png){: width="150"}
+*[Paul Bennett](https://scholar.google.com/citations?user=AIncPrIAAAAJ&hl=en&oi=ao), Director of Research (LLMs), Spotify*
+
 
 
 ## Workshop Organizers
 
 ![](images/tbd.jpeg){: width="150"}
 *[Enrico Palumbo](https://www.linkedin.com/in/enrico-palumbo-0272baa8/), Spotify, Italy*
-
-![](images/tbd.jpeg){: width="150"}
-*[Daniele Amberti](https://www.linkedin.com/in/damberti/), Amazon Alexa, Italy*
 
 ![](images/tbd.jpeg){: width="150"}
 *[Davide Bernardi](https://www.linkedin.com/in/bernardid/), Amazon Alexa, Italy*
@@ -83,6 +81,9 @@ He has led more than 25 research projects, e.g., with MIT CSAIL.
 
 ![](images/tbd.png){: width="150"}
 *[Alessandro Manzotti](https://www.linkedin.com/in/amanzotti/), Microsoft, Italy*
+
+![](images/tbd.jpeg){: width="150"}
+*[Daniele Amberti](https://www.linkedin.com/in/damberti/), Amazon Alexa, Italy*
 
 
 ## Program Committee
