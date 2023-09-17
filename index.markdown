@@ -55,7 +55,7 @@ He has led more than 25 research projects, e.g., with MIT CSAIL.
 ## Panel members
 
 ![](images/tbd.png){: width="150"}
-*[Alex Jaimes](https://scholar.google.com/citations?user=2_sT4fcAAAAJ&hl=en), Dataminr, Chief Scientist*
+*[Alex Jaimes](https://scholar.google.com/citations?user=2_sT4fcAAAAJ&hl=en), Chief Scientist, Chief Scientist*
 
 ![](images/tbd.png){: width="150"}
 *[Emanuele Rodolà](https://scholar.google.com/citations?user=-EH4wBYAAAAJ&hl=en), Full Professor, Sapienza University of Rome*
