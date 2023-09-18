@@ -29,10 +29,10 @@ Understanding.
 * **Oct 1st:** Camera-ready deadline
 * **Sep 18th:** COLLM 2023 Workshop
 
-## Keynote Speaker
+## Invited Speakers
 
 ![](images/tbd.png){: width="150"}
-*[Alessandro Moschitti](https://scholar.google.com/citations?user=vYUDlsEAAAAJ&hl=en), Amazon Alexa, USA*
+*[Alessandro Moschitti](https://scholar.google.com/citations?user=vYUDlsEAAAAJ&hl=en), Principal Scientist, Amazon Alexa*
 
 Alessandro Moschitti is a Principal Research Scientist of Amazon Alexa AI, where he
 has been leading the science of Question Answering science since 2018. He obtained his
@@ -50,6 +50,16 @@ had a chair role in more than 70 conferences and workshops. He is currently an
 action/associate editor of ACM Computing Survey and JAIR, and General Chair of EACL 2023. 
 He has led more than 25 research projects, e.g., with MIT CSAIL.
 
+![](images/tbd.png){: width="150"}
+*[Alex Jaimes](https://scholar.google.com/citations?user=2_sT4fcAAAAJ&hl=en), Chief Scientist & SVP of AI, Dataminr*
+
+Alex Jaimes is Chief Scientist & SVP of AI at Dataminr and Visiting Professor at Cornell Tech. 
+He is a leader in AI and has built products that are used by millions of people (real-time event detection/emergency response, healthcare, self-driving cars, media, telecomm, etc.) 
+at companies such as Yahoo, Telefónica, IBM, Fuji Xerox, Siemens, AT&T Bell Labs, DigitalOcean, etc. 
+An early voice in Human-Centered AI (Computing), he has over 100 patents and publications in top-tier conferences and journals in AI. 
+He has been featured widely in the press (MIT Tech review, CNBC, Vice, TechCrunch, Yahoo! Finance, etc.). 
+He is a mentor at Endeavor and Techstars, and a member of the advisory board of 
+Digital Divide Data (a non-for-profit that creates sustainable tech opportunities for underserved youth, their families, and their communities in Asia and Africa). He was an expert in the Colombian Government’s Artificial Intelligence Expert Mission which advised the President on AI policies. Alex holds a Ph.D. from Columbia University.
 
 
 ## Panel members
